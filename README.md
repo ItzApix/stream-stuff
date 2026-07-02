@@ -1,3 +1,6 @@
+## This is a Fork of Luposity's Hype Train
+-> This fork was made by ItzApix, and it makes it's take on animations and style
+
 # <b>Luposity's Streaming Resources</b>
 You'll find all my Streaming resources here that I use for my own Streams.
 Feel free to use them for yourself, credit does not need to be provided but it's appreciated.
